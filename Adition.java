@@ -3,7 +3,7 @@ public class Adition {
         int a=4;
         int b=5;
         int c=a+b;
-        System.err.println(c);
+        System.out.println(c);
 
         
     }
